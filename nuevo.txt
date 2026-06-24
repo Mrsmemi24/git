@@ -4,6 +4,17 @@ Prueba de git
 primer commit en main
 
 Primer commit en rama 
+<<<<<<< HEAD
 
 Primer commit en rama2 
 Segundo commit en main
+=======
+Segundo commit en rama 
+
+
+Primer commit en rama2 
+Segundo commit en main
+
+tercer commit en rama
+cuarto commit en rama
+>>>>>>> rama
